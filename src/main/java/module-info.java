@@ -1,3 +1,3 @@
-module io.se7en.utils.logic {
-  exports io.se7en.utils.logic;
+module me.time1015.utils.logic {
+  exports me.time1015.utils.logic;
 }
